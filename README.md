@@ -2,11 +2,11 @@
 ### Now memory efficient with near-instant query times, runs around 150 MB of RAM vs. 850 MB!
 ### give it a try at https://trollface.ai
 
-controls:
-click on player count bar to hide players
-click on coordinate bar to show towns
-click on dice to show a random player
-press ESC to close any tab
+### controls:
+### -click on player count bar to hide players
+### -click on coordinate bar to show towns
+### -click on dice to show a random player
+### -press ESC to close any tab
 
 <img width="803" height="573" alt="Screenshot 2026-03-01 at 3 43 17 AM" src="https://github.com/user-attachments/assets/ff304150-9f91-4a26-bdc9-d06d0eb1aafe" />
 
