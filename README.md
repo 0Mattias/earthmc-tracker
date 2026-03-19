@@ -1,6 +1,5 @@
 # EarthMC Tracker - a modded map and database for EarthMC
-### Now memory efficient with near-instant query times, runs around 150 MB of RAM vs. 850 MB!
-### give it a try at https://trollface.ai
+### [Try out the new Agentic AI Beta!](https://github.com/0Mattias/earthmc-beta/tree/main)
 
 ### controls:
 ### -click on player count bar to hide players
